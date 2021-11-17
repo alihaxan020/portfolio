@@ -24,6 +24,7 @@ function App() {
         {minute}:{count <= 9 ? "0" : null}
         {count}
       </h5>
+      <h1>Ali Hassan</h1>
     </div>
   );
 }
