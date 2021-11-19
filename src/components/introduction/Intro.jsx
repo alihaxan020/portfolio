@@ -1,6 +1,6 @@
 import React from "react";
 import "./intro.css";
-import me from "../../images/Me.png";
+import me from "../../images/Me-min.png";
 const intro = () => {
   return (
     <div className="i">
@@ -17,7 +17,7 @@ const intro = () => {
               <div className="i-title-item">Web Developer</div>
             </div>
           </div>
-          <p className="i-description">
+          <p className="i-desc">
             I can simplify all your professional needs in one place. My mission
             is to revolutionize the art of websites, mobile, and develop unique
             stuff with a taste of modern elegance.
