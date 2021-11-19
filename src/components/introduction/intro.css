@@ -83,7 +83,7 @@ height: 100vh;
     right: 0;
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 997px) {
     .i {
       flex-direction: column;
     }
